@@ -149,6 +149,7 @@ h3{
   height: 219px;
   width: 284px;
   padding: 40px;
+  border-radius: 20px;
 }
 .card img{
     height:56px ;
@@ -163,7 +164,12 @@ h3{
 
 
 }
-.card a{
-    color: ;
+.cards a{
+    color:#0d132194 ;
+    font-weight: 700;
 
 }
+.c1{background-color: #ffdd0028;}
+.c2{background-color: #004de823;}
+.c3{background-color: #ff8b1e5e;}
+
