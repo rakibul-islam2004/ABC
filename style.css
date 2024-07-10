@@ -109,3 +109,24 @@ h3{
     border-color: #0d132131;
     cursor: pointer;
 }
+/* My Inspiration */
+.inspiration{
+    width: 1140px;
+    height: 800px;
+    margin:0px auto;
+}
+.div-ins{
+    width:852px;
+    margin: 0px auto;
+    text-align: center;
+}
+.div-ins p{
+    padding: 20px 0px;
+}
+.div-v{
+    width: 1140px;
+    height: 614px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0px auto;
+}
