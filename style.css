@@ -110,17 +110,17 @@ h3{
     cursor: pointer;
 }
 /* My Inspiration */
-.inspiration{
+.inspiration , .current_target{
     width: 1140px;
     height: 800px;
     margin:0px auto;
 }
-.div-ins{
+.div-ins , .div-cards{
     width:852px;
     margin: 0px auto;
     text-align: center;
 }
-.div-ins p{
+.div-ins p , .current_target p{
     padding: 20px 0px;
 }
 .div-v{
@@ -129,4 +129,41 @@ h3{
     padding: 32px;
     border-radius: 16px;
     margin: 0px auto;
+}
+/* current_target */
+
+.current_target{
+    width: 1140px;
+    height: 460px;
+    margin: 0px auto;
+}
+
+.cards{
+
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0px;
+}
+.card{
+  height: 219px;
+  width: 284px;
+  padding: 40px;
+}
+.card img{
+    height:56px ;
+    width: 56px;
+}
+.cards-title{
+    font-size: 24px;
+    font-weight: 800px;
+
+}
+.card-description{
+
+
+}
+.card a{
+    color: ;
+
 }
