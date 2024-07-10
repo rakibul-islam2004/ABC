@@ -173,3 +173,46 @@ h3{
 .c2{background-color: #004de823;}
 .c3{background-color: #ff8b1e5e;}
 
+/* Support section */
+.support{
+    background-image: url(handshake.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    width: 1140px;
+    height: 313px;
+    margin: 50px auto;
+
+}
+.support-content{
+
+    width:1044px ;
+    height: 185px;
+    padding: 64px 48px;
+    text-align: center;
+
+}
+.support h4{
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700px;
+
+}
+.support p{
+    color: #fff;
+    margin: 16px auto;
+    width: 606px;
+}
+input[type=text]{
+    width: 548px;
+    height: 57px;
+    border-radius: 10px;
+}
+
+input[type=submit]{
+    width: 120px;
+    height: 57px;
+    font-weight: 900px;
+    border-radius: 10px;
+}
+
+
